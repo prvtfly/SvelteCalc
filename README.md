@@ -24,4 +24,4 @@ The calculator is built with Svelte, a modern web framework that allows for reac
 
 ## How to Run
 
-To run the project, simply open the `dist/index.html` file in your web browser. Alternatively, you can use a web server such as [live-server](https://www.npmjs.com/package/live-server) to serve the files locally.
+To run the project, simply use the `npm install && npm run dev` commands in your console. Alternatively, you can build it with `npm run build` and then use a web server such as [live-server](https://www.npmjs.com/package/live-server) to serve the files locally.
